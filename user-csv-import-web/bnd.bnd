@@ -1,0 +1,10 @@
+Bundle-Name: user-csv-import-web
+Bundle-SymbolicName: com.user.csv.importer.web
+Bundle-Version: 1.0.0
+Export-Package: com.user.csv.importer.constants
+Include-Resource:\
+    @commons-csv-1.4.jar,\
+    
+Import-Package: \
+    !org.apache.commons.csv*,\
+    *

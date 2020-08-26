@@ -1,0 +1,4 @@
+Bundle-Name: user-csv-export-web
+Bundle-SymbolicName: com.user.csv.export
+Bundle-Version: 1.0.0
+Export-Package: com.user.csv.export.constants
